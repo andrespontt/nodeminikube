@@ -1,3 +1,6 @@
+Requirements: Docker, Minikube, Kubernetes (kubectl) -- I installed using brew
+
+
 how to start
 
 # Start minikube
